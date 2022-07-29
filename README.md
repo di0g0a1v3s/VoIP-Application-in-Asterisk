@@ -1,5 +1,5 @@
 # VoIP-Application-in-Asterisk
- VoIP Application built with Asterisk and Python
+Interactive Voice Response (IVR) system based on Voice over IP (VoIP) built with Asterisk and Python
  
 ## Instalation Instructions
 
